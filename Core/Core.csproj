@@ -8,8 +8,6 @@
 		<PackageReference Include="Selenium.WebDriver" Version="4.40.0" />
 	</ItemGroup>
 	<ItemGroup>
-	  <Folder Include="Driver\" />
-	  <Folder Include="Driver\" />
 	  <Folder Include="Logger\" />
 	  <Folder Include="Utilities\" />
 	</ItemGroup>
