@@ -1,0 +1,20 @@
+{
+  "TestSettings": {
+    "Browser": "Chrome",
+    "BaseUrl": "https://example.com",
+    "ImplicitWait": 10,
+    "ExplicitWait": 20,
+    "PageLoadTimeout": 30,
+    "Headless": false,
+    "TakeScreenshots": true,
+    "ScreenshotPath": "./Reports/Screenshots/"
+  },
+  "exclude": [
+    "**/bin",
+    "**/bower_components",
+    "**/jspm_packages",
+    "**/node_modules",
+    "**/obj",
+    "**/platforms"
+  ]
+}
